@@ -1,0 +1,5 @@
+segment,customers,recency_median,frequency_median,monetary_median,revenue,pct_customers,pct_revenue,recommended_action
+Champions,1051,16.0,14.0,4069.56,5138448.55,21.39,64.59,"Reward and retain: VIP early access, loyalty tiers, referral incentives. Do NOT discount - they already buy at full price."
+At Risk,1126,152.0,5.0,1255.18,1652141.77,22.92,20.77,"Win back before they lapse: personalised 'we miss you' campaigns, targeted discounts, reminders based on their usual purchase gap."
+Potential Loyalists,708,18.0,4.0,885.02,686672.29,14.41,8.63,"Build the habit: personalised second/third-purchase journeys, onboarding emails, time-limited reorder incentives."
+Hibernating,2028,314.5,1.0,199.11,478403.23,41.28,6.01,"Low-cost reactivation only: automated email/SMS flows, last-chance offers; suppress from paid-media spend if no response."
