@@ -53,15 +53,10 @@ requirements.txt
    weights or SMOTE (SMOTE inside the CV pipeline). Selected: Random Forest + class weights.
 4. **Week 4 - BI:** live base scored as of 2026-01-01; Power BI/Tableau tables exported.
 
-## BI dashboard
+## TABLEAU dashboard
 The `.pbix` / `.twbx` must be authored in Power BI Desktop / Tableau. Follow
 `dashboard/POWERBI_BUILD_GUIDE.md` (about 30 min); `dashboard/churn_dashboard.html` is a ready preview.
 
 ## Git workflow
 The programme requires genuine, daily, atomic commits across all 4 weeks (20 working days).
 See `docs/COMMIT_PLAN.md` for a day-by-day plan and message conventions.
-
-
-## Supervisor structure compliance
-
-This repository follows the Cookiecutter Data Science layout required in the Axlero Data Analytics project specification: `data/raw/`, `data/interim/`, and `data/processed/`; numbered notebooks; reusable modules under `src/` including `dataset.py`, `features.py`, and `modeling/`; `reports/figures/`; and a pinned `requirements.txt`. The `docs/` folder contains a genuine-work commit plan and technical defense prompts. Keep the raw data immutable and commit changes atomically as the work is completed.
