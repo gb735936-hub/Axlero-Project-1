@@ -22,4 +22,4 @@ CREATE TABLE transactions_raw (
 );
 
 CREATE INDEX idx_tx_customer ON transactions_raw (customer_id);
-CREATE INDEX idx_tx_date     ON transactions_raw (order_date);
+CREATE INDEX idx_tx_date     ON transactions_raw (order_date)
